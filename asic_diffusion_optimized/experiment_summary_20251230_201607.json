@@ -1,0 +1,51 @@
+{
+  "experiment": "ASIC-DIFFUSION-OPTIMIZED",
+  "version": "2.0",
+  "timestamp": "20251230_201607",
+  "configuration": {
+    "difficulty": 1e-10,
+    "explanation": "Minimum difficulty - any hash accepted immediately"
+  },
+  "bridge_stats": {
+    "total_hashes": 107,
+    "total_bytes": 3424,
+    "mean_latency_s": 5.104103522880055,
+    "min_latency_s": 0.25054287910461426,
+    "max_latency_s": 9.992927312850952,
+    "hashes_per_second": 0.19592079108844904
+  },
+  "results": {
+    "warmup": {
+      "latencies": [
+        5.912381172180176,
+        7.756492614746094,
+        7.641204357147217,
+        0.7879178524017334,
+        7.916290521621704
+      ],
+      "mean_latency": 6.002857303619384,
+      "rate": 0.1665873349008407
+    },
+    "textures": {
+      "resolution": "fast_32x32",
+      "width": 32,
+      "height": 32,
+      "hashes_collected": 54,
+      "time_s": 694.8963804244995,
+      "rate": 0.0777094276516628,
+      "files": [
+        "asic_diffusion_optimized\\chroma_gray_32x32_1767122167.png"
+      ]
+    }
+  },
+  "comparison_with_v1": {
+    "v1_difficulty": 0.0001,
+    "v1_expected_rate": "0.05 hashes/second",
+    "v2_difficulty": 1e-10,
+    "v2_improvement": "Should be 100-1000x faster"
+  },
+  "author": {
+    "name": "Francisco Angulo de Lafuente",
+    "github": "https://github.com/Agnuxo1"
+  }
+}
