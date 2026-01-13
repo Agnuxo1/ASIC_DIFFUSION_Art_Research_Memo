@@ -1,3 +1,20 @@
+![1](https://github.com/user-attachments/assets/ed352add-0306-4097-9447-57762a95b4ee)
+![4](https://github.com/user-attachments/assets/0f7c47e6-195f-4949-b296-5eea510c3603)
+![3](https://github.com/user-attachments/assets/9c4cf6a2-5abb-4d6d-a539-9b2ef862a30b)
+![2](https://github.com/user-attachments/assets/6b7e93ee-ebfa-4c09-aa33-f3099af9f179)
+![6](https://github.com/user-attachments/assets/f00dabe7-b34a-4d60-b0aa-542463b1683d)
+![5](https://github.com/user-attachments/assets/24c9f272-ffa2-4049-b51e-9ae872ee49e6)
+![8](https://github.com/user-attachments/assets/d476538b-8ba0-4190-8dae-4b83b48dbbff)
+![7](https://github.com/user-attachments/assets/5cc2002a-3d29-4c71-8e72-fb69ab895608)
+![10](https://github.com/user-attachments/assets/2907c70b-6d7d-4d10-87e3-9163dda7526a)
+![9](https://github.com/user-attachments/assets/0d5c383d-251c-4701-b458-f374dd68158d)
+![11](https://github.com/user-attachments/assets/4eab2db8-a704-4d58-a9f1-1d96fd111629)
+![12](https://github.com/user-attachments/assets/630586a1-e72b-4d6e-9319-9376731f8faf)
+![13](https://github.com/user-attachments/assets/f75fc0c4-a8f1-49b2-a20e-7ea5e4ea9904)
+![14](https://github.com/user-attachments/assets/8735caae-ed49-4fcc-960c-44a0c11b7c88)
+
+
+
 ---
 lang: en
 title: "ASIC-Driven Art Diffusion: Hardware-Efficient Entropy Generation
